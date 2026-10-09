@@ -8,6 +8,11 @@
 
 ### ▶️ 视频（制作过程、效果演示）：[YouTube](https://youtu.be/v0QcsWsoYbw "YouTube") ｜ [Bilibili](https://www.bilibili.com/video/BV1qtBBBwEWv "Bilibili")
 
+😄[爱发电(赞助)](https://afdian.com/a/kuruibb "爱发电(赞助)")   
+🧵[Threads](https://www.threads.net/@coreoobb "@coreoobb") @coreoobb  
+🐧QQ 群（仅供交流，人满请加Discord）：647186542  
+😈Discord 频道：[加入](https://discord.gg/gvbcCtdQrk "加入")   
+
 ## 目录结构
 
 ```text
@@ -36,8 +41,3 @@ CAD/                           # 3D模型
 13. 将 37×37×1mm 反射镜卡入 `Mirror_3Dv2.stl`
 14. 将 `Mirror_3Dv2.stl` 通过两颗 M2 螺丝锁在 `rotate.step` 末端，另用两颗 M2 螺丝固定反射镜俯仰角度
 15. 微调四颗 M2 螺丝，调整反射镜位置、俯仰角度、左右旋转角度，使同心度尽可能高
-
-😄[爱发电(赞助)](https://afdian.com/a/kuruibb "爱发电(赞助)")   
-🧵[Threads](https://www.threads.net/@coreoobb "@coreoobb") @coreoobb  
-🐧QQ 群（仅供交流，人满请加Discord）：647186542  
-😈Discord 频道：[加入](https://discord.gg/gvbcCtdQrk "加入")   
