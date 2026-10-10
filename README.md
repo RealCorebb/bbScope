@@ -8,7 +8,7 @@
 
 ### ▶️ 视频（制作过程、效果演示）：[YouTube](https://www.youtube.com/watch?v=Ltk5rLHQRfw "YouTube") ｜ [Bilibili](https://www.bilibili.com/video/BV1Prpb67E8w/ "Bilibili")
 
-😄[爱发电(赞助、本工程的完整Autodesk Fusion(.f3d)、.step格式)](https://afdian.com/a/kuruibb "爱发电(赞助)")   
+😄[爱发电(赞助、本工程的完整Autodesk Fusion(.f3z)、.step格式)](https://afdian.com/a/kuruibb "爱发电(赞助)")   
 🧵[Threads](https://www.threads.net/@coreoobb "@coreoobb") @coreoobb  
 🐧QQ 群（仅供交流，人满请加Discord）：647186542  
 😈Discord 频道：[加入](https://discord.gg/gvbcCtdQrk "加入")   

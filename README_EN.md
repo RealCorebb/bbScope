@@ -8,7 +8,7 @@ I have wanted to own a digital microscope for a long time, so I built one myself
 
 ### ▶️ Videos (Build Process & Demo): [YouTube](https://www.youtube.com/watch?v=Ltk5rLHQRfw "YouTube") ｜ [Bilibili](https://www.bilibili.com/video/BV1Prpb67E8w/ "Bilibili")
 
-😄 [Afdian (Sponsorship, full Autodesk Fusion (.f3d) and .step project files)](https://afdian.com/a/kuruibb "Afdian (Sponsorship)")   
+😄 [Afdian (Sponsorship, full Autodesk Fusion (.f3z) and .step project files)](https://afdian.com/a/kuruibb "Afdian (Sponsorship)")   
 🧵 [Threads](https://www.threads.net/@coreoobb "@coreoobb") @coreoobb  
 🐧 QQ Group (Discussion only; if full, please join Discord): 647186542  
 😈 Discord Channel: [Join](https://discord.gg/gvbcCtdQrk "Join")   
