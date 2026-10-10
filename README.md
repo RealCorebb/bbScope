@@ -6,9 +6,9 @@
 
 很早以前就想拥有数码显微镜，所以我自己制作了一台，并设计了3D旋转模块，实现挺震撼的视觉效果。
 
-### ▶️ 视频（制作过程、效果演示）：[YouTube](https://youtu.be/v0QcsWsoYbw "YouTube") ｜ [Bilibili](https://www.bilibili.com/video/BV1qtBBBwEWv "Bilibili")
+### ▶️ 视频（制作过程、效果演示）：[YouTube](https://www.youtube.com/watch?v=Ltk5rLHQRfw "YouTube") ｜ [Bilibili](https://www.bilibili.com/video/BV1Prpb67E8w/ "Bilibili")
 
-😄[爱发电(赞助)](https://afdian.com/a/kuruibb "爱发电(赞助)")   
+😄[爱发电(赞助、本工程的完整Autodesk Fusion(.f3d)、.step格式)](https://afdian.com/a/kuruibb "爱发电(赞助)")   
 🧵[Threads](https://www.threads.net/@coreoobb "@coreoobb") @coreoobb  
 🐧QQ 群（仅供交流，人满请加Discord）：647186542  
 😈Discord 频道：[加入](https://discord.gg/gvbcCtdQrk "加入")   
@@ -22,7 +22,16 @@ CAD/                           # 3D模型
 ├── top.stl                    # 3D打印，模块固定（与镜头接触）
 ├── Mirror_3Dv2.stl            # 3D打印，反射镜固定
 └── prism_cover.stl            # 3D打印，棱镜保护罩（非必须）
+└── bbScope Materials.xlsx     # 物料清单
 ```
+
+## 说明
+
+该3D模块适用于工作距离100mm（即WD100）的显微镜头，相机可按自行需求选择。
+
+## 想购买成品？
+预计会分成两个SKU：整机、单独3D模块 贩售。  
+目前仍在考量中，可关注B站、QQ群、Threads最新动态。
 
 ## 安装步骤
 
