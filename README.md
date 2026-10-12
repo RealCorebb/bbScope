@@ -34,7 +34,7 @@ bbScope Materials.xlsx         # 物料清单
 
 ## 想购买成品？
 现已上架两个SKU：整机、单独3D模块。  
-购买方式1：[B站小店](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=42349801&loadingShow=1&noTitleBar=1#noReffer=true) （APP端：B站 —— 酷睿比比 —— 小店）  
+购买方式1：[B站小店](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=42349801&loadingShow=1&noTitleBar=1#noReffer=true&msource=merchant_share) （APP端：B站 —— 酷睿比比 —— 小店）  
 购买方式2：[闲鱼](https://www.goofish.com/item?spm=a21107h.42831410.0.0.44386a73POyE3G&id=1091217113989&categoryId=0) (APP端：搜“酷睿比比” 鱼小铺)
 
 ## 安装步骤
