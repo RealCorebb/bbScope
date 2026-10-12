@@ -1,5 +1,7 @@
 # bbScope [English](https://github.com/RealCorebb/bbScope/blob/main/README_EN.md "English")
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ![image](https://github.com/RealCorebb/bbScope/blob/main/IMG/bbScope.jpg?raw=true)
 
 ## 3D 多视角数码显微镜
@@ -32,7 +34,8 @@ bbScope Materials.xlsx         # 物料清单
 
 ## 想购买成品？
 现已上架两个SKU：整机、单独3D模块。  
-购买方式1：[B站小店](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=42349801&loadingShow=1&noTitleBar=1#noReffer=true) （APP端：B站 —— 酷睿比比 —— 小店）
+购买方式1：[B站小店](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=42349801&loadingShow=1&noTitleBar=1#noReffer=true) （APP端：B站 —— 酷睿比比 —— 小店）  
+购买方式2：[闲鱼](https://www.goofish.com/item?spm=a21107h.42831410.0.0.44386a73POyE3G&id=1091217113989&categoryId=0) (APP端：搜“酷睿比比” 鱼小铺)
 
 ## 安装步骤
 
@@ -51,3 +54,13 @@ bbScope Materials.xlsx         # 物料清单
 13. 将 37×37×1mm 反射镜卡入 `Mirror_3Dv2.stl`
 14. 将 `Mirror_3Dv2.stl` 通过两颗 M2 螺丝锁在 `rotate.step` 末端，另用两颗 M2 螺丝固定反射镜俯仰角度
 15. 微调四颗 M2 螺丝，调整反射镜位置、俯仰角度、左右旋转角度，使同心度尽可能高
+
+## 开源协议
+
+本项目采用 **[CC BY-NC 4.0 (知识共享 署名-非商业性使用 4.0 国际许可协议)](LICENSE)** 开源。
+
+**简要说明：**
+- **自由共享与修改**：您可以在非商业用途的前提下，自由分享、传播以及修改本项目的内容与文件。
+- **署名要求 (Attribution)**：使用或二次创作时必须保留原作者署名（酷睿比比 / RealCorebb），并标明是否对原始工程做出了修改。
+- **禁止商业用途 (Non-Commercial)**：**本项目及其衍生作品严禁用于任何商业营利目的**。未经授权，禁止将本项目的 3D 打印件、CNC 加工件、成品整机或衍生设计进行商业销售。
+- 完整法律条款请参阅 [LICENSE](LICENSE) 文件及 [Creative Commons 官方条款](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)。

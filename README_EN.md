@@ -1,5 +1,7 @@
 # bbScope [中文](https://github.com/RealCorebb/bbScope/blob/main/README.md "中文")
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ![image](https://github.com/RealCorebb/bbScope/blob/main/IMG/bbScope.jpg?raw=true)
 
 ## 3D Multi-Angle Digital Microscope
@@ -51,3 +53,13 @@ Currently still under consideration. Follow Bilibili, QQ Group, or Threads for t
 13. Snap the 37×37×1mm mirror into `Mirror_3Dv2.stl`.
 14. Mount `Mirror_3Dv2.stl` to the end of `rotate.step` using two M2 screws, and use two additional M2 screws to adjust the tilt angle of the mirror.
 15. Finely adjust the four M2 screws to calibrate the mirror's position, tilt angle, and yaw/rotation angle to achieve the highest possible concentricity.
+
+## License
+
+This project is licensed under the **[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE)**.
+
+**Summary:**
+- **Sharing & Adaptation**: You are free to share, copy, and adapt this material for non-commercial purposes.
+- **Attribution**: You must give appropriate credit to the author (RealCorebb), provide a link to the license, and indicate if changes were made.
+- **Non-Commercial**: **Commercial use is strictly prohibited**. You may not use the CAD files, 3D printed parts, CNC machined parts, assembled units, or derivative designs for commercial advantage or monetary compensation.
+- For full license terms, please see the [LICENSE](LICENSE) file and the [Creative Commons official page](https://creativecommons.org/licenses/by-nc/4.0/).
