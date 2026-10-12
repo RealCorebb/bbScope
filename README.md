@@ -19,19 +19,20 @@
 CAD/                           # 3D模型
 ├── rotate.step                # CNC加工，模块旋转本体
 ├── bot.step                   # CNC加工，模块固定（与旋转体接触）
-├── top.stl                    # 3D打印，模块固定（与镜头接触）
-├── Mirror_3Dv2.stl            # 3D打印，反射镜固定
+├── top.stl                    # 3D打印，模块固定（与镜头接触）（光固化打印）
+├── Mirror_3Dv2.stl            # 3D打印，反射镜固定 (MJF尼龙打印)
 └── prism_cover.stl            # 3D打印，棱镜保护罩（非必须）
-└── bbScope Materials.xlsx     # 物料清单
+bbScope Materials.xlsx         # 物料清单
 ```
 
 ## 说明
 
-该3D模块适用于工作距离100mm（即WD100）的显微镜头，相机可按自行需求选择。
+该3D模块适用于工作距离100mm（即WD100）的显微镜头，相机可按自行需求选择。  
+装配过程需要一定的工具，如橡胶锤敲打定位销、轴承。
 
 ## 想购买成品？
-预计会分成两个SKU：整机、单独3D模块 贩售。  
-目前仍在考量中，可关注B站、QQ群、Threads最新动态。
+现已上架两个SKU：整机、单独3D模块。  
+购买方式1：[B站小店](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=42349801&loadingShow=1&noTitleBar=1#noReffer=true) （APP端：B站 —— 酷睿比比 —— 小店）
 
 ## 安装步骤
 
